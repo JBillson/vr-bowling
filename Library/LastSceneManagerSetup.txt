@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_My Assets/Scenes/Bowling/Bowling Alley/Bowling Alley.unity
+  isLoaded: 1
+  isActive: 1
